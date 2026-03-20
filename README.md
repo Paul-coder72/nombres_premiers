@@ -1,0 +1,3 @@
+- Fonction permettant de vérifier si un nombre est premier
+- Fonctions pour lister les nombres premiers dans un .txt ou sous forme de liste python.
+- Turtle pour placer des points --> Spirale d'Ulam
